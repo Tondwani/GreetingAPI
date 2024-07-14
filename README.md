@@ -1,7 +1,7 @@
 # GreetingAPI
 
 
-Greeting APIThis API, built using Python and Flask, generates personalized greetings based on user input. It runs locally on a virtual machine, providing a lightweight and flexible solution for handling greeting requests programmatically.
+This API, built using Python and Flask, generates personalized greetings based on user input. It runs locally on a virtual machine, providing a lightweight and flexible solution for handling greeting requests programmatically.
 
 Features:
 
